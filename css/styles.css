@@ -10284,3 +10284,8 @@ form .row:first-child .floating-label-form-group {
   margin-top: 1.5em;
   margin-bottom: 2.5em;
 }
+
+.pageclip-form__success{
+ background: transparent;
+ bottom: -8em;
+}
